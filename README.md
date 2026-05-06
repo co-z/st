@@ -1,1 +1,3 @@
-# co-z's patched version of st
+# Suckless Terminal
+
+A patched build of st.
